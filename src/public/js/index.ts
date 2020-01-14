@@ -1,7 +1,6 @@
-import { parse, calculate } from "@known-as-dan/calculator";
-import { getOperators, MathOperator } from "@known-as-dan/calculator/dist/operators";
-import { getFunctions, MathFunction } from "@known-as-dan/calculator/dist/functions";
-import { getConstants, MathConstant } from "@known-as-dan/calculator/dist/constants";
+import { parse, calculate, getOperators, MathOperator } from "@known-as-dan/calculator";
+import { getFunctions, MathFunction } from "@known-as-dan/calculator";
+import { getConstants, MathConstant } from "@known-as-dan/calculator";
 
 const ID: any = {
 	MAIN_BODY: "main",
@@ -99,7 +98,6 @@ function main() {
 
 	// calculate input whenever you type anything(live calculation)
 	$(document).on("keyup", `#${ID.MATH_INPUT}`, (event): void => {
-		console.log("test");
 		calculateInput();
 	});
 
