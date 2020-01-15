@@ -86,7 +86,7 @@ function updateInfo() {
 		let fmt: string;
 		for (let i = 0; i < constants.length; i++) {
 			constant = constants[i];
-			fmt = `<b>${constant.identifier} =></b> <code>${constant.value} </code>`;
+			fmt = `<b>${constant.identifier} =></b> <code>${constant.value} </code><br>`;
 			constant_div.innerHTML += fmt;
 		}
 	}
