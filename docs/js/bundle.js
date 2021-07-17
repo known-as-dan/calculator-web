@@ -443,7 +443,7 @@ addFunction("Reverse Sine", "asin", "asin(num)", function (values) {
     var num = fetchValue(values, 0);
     return Math.asin(num) * (180 / Math.PI);
 });
-addFunction("Reverse Tangent", "atan", "atan(num", function (values) {
+addFunction("Reverse Tangent", "atan", "atan(num)", function (values) {
     var num = fetchValue(values, 0);
     return Math.atan(num) * (180 / Math.PI);
 });

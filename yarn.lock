@@ -3,9 +3,9 @@
 
 
 "@known-as-dan/calculator@^1.0.9":
-  version "1.0.9"
-  resolved "https://registry.yarnpkg.com/@known-as-dan/calculator/-/calculator-1.0.9.tgz#cf4d8791a4d8c58ef6727d8082ac6a2a2aa36870"
-  integrity sha512-PX5Xj+8hp6eYnEdIYg3Pq+F0jGrjaAU/IS+ovUFKmzzkMf/cbCmedtflXEW2bMuPnWVPjkvieg7Y+jvMP2E2wg==
+  version "1.0.11"
+  resolved "https://registry.yarnpkg.com/@known-as-dan/calculator/-/calculator-1.0.11.tgz#93b698eaf0b6ad0fe54d5f9e086285c7ea0ceb29"
+  integrity sha512-E4jc//obLrtqB6Go5OQ9M7hL+kp0rZhvFRKYHB19OUamb1t5HsYmFEfMPzkBHfNV5xmmuk/fj/vgZXcJse/x1A==
 
 "@types/body-parser@*":
   version "1.19.1"
