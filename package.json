@@ -13,7 +13,7 @@
     "start": "yarn build && yarn execute"
   },
   "dependencies": {
-    "@known-as-dan/calculator": "^1.0.1",
+    "@known-as-dan/calculator": "^1.0.9",
     "@types/express": "^4.17.2",
     "@types/jquery": "^3.3.31",
     "@types/node": "^13.1.6",
