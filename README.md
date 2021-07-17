@@ -1,8 +1,8 @@
 # About
-This is a modular text-parsing calculator with support for custom operators, functions and constants.
+A web based front-end for the [calculator](https://github.com/known-as-dan/calculator-npm) NPM package, featuring the text calculator with all basic forms of operators, functions and constants.
 
 # Experience
-You can try it out [here](https://known-as-dan.github.io/calculator-web).
+You can try it out [here](https://known-as-dan.github.io/calculator-web/index.html).
 
 # To-Do
 - Search
