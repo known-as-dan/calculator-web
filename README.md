@@ -6,6 +6,5 @@ You can try it out [here](https://known-as-dan.github.io/calculator-web/index.ht
 
 # To-Do
 - Search
-- Mobile compatibility
 - Fixed position for input(goes down as you scroll)
 - Autocomplete
