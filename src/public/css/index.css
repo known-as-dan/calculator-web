@@ -1,6 +1,6 @@
  
 header {
-	font-size: 60px;
+	font-size: 300%;
 	font-weight: bold;
 	text-align: center;
 }
@@ -11,6 +11,12 @@ body {
 	margin: auto;
 	width: 50%;
 	padding: 10px;
+}
+
+@media only screen and (max-width: 800px) {
+	body {
+		width: 95%;
+	}
 }
 
 #math_input {
